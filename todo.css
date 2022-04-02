@@ -1,0 +1,42 @@
+body{
+    text-align:justify;
+    background: #1e2222;
+}
+
+h1{
+    color:rgba(1, 79, 82, 0.699);
+    border: solid rgb(166, 122, 207) ;
+    border-radius: 20px;
+    border-width: 2px;
+    background-color:whitesmoke ;
+    text-align: center;
+    margin: 10px 20% 10px 20%;
+}
+
+
+#task{
+    border: solid 5px ;
+    border-radius: 10px;
+    width: 40%;
+    height: 20px;
+    margin-left: 20%;
+}
+
+#mainButton{
+    border: solid 2px ;
+    border-radius: 10%;
+    margin-left: 2%;
+    height: 30px ;
+    color: rgb(31, 27, 27);
+}
+
+.li{
+    text-align: left;
+    margin-left: 5px;
+    max-height: 30px;
+}
+
+.button{
+    border: 2px;
+    border-radius: 5px;
+}
